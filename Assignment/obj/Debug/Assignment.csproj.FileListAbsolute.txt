@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\WindowsFormsApp1\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Admin\source\repos\WindowsFormsApp1\Assignment\bin\Debug\Assignment.exe
+C:\Users\Admin\source\repos\WindowsFormsApp1\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Admin\source\repos\WindowsFormsApp1\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\WindowsFormsApp1\Assignment\obj\Debug\Assignment.Form1.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\Assignment\obj\Debug\Assignment.csproj.GenerateResource.Cache
+C:\Users\Admin\source\repos\WindowsFormsApp1\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WindowsFormsApp1\Assignment\obj\Debug\Assignment.exe
+C:\Users\Admin\source\repos\WindowsFormsApp1\Assignment\obj\Debug\Assignment.pdb
