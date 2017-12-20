@@ -41,7 +41,7 @@ namespace TestGit
         public void GitDeploy2(string username, string password, string gitRepoUrl, string localFolder)
         {
             var folder = new DirectoryInfo(localFolder);
-            username = "ae55d53405c19be045ed5d6b242d119c465e9dcf";
+            username = "token here";
             password = string.Empty;
             gitRepoUrl = "https://github.com/SohaibHN/Test.git";
 
