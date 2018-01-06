@@ -3,3 +3,4 @@ average bgs spec (40+) + 1 dwh = 108 def
 2 dwh specs = 105 def
 
 1 dwh spec = 150 def
+
