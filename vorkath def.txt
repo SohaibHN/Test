@@ -4,3 +4,4 @@ average bgs spec (40+) + 1 dwh = 108 def
 
 1 dwh spec = 150 def
 
+bgs is 100% better after buff
